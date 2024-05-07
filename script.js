@@ -2,8 +2,6 @@ let nomeHeroi = 'Kleber'
 
 let quantidadeXP = Math.floor(Math.random() * (10000 - 1000 + 1)) + 1000;
 
-//let quantidadeXP = 3682
-
 nivelHeroi = ''
 
 if (quantidadeXP == 1000){
